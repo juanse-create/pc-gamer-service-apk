@@ -1,0 +1,59 @@
+# PC Gamer Service
+
+Aplicación móvil desarrollada en Flutter para la gestión del mantenimiento de equipos de cómputo.
+
+## Descripción
+
+PC Gamer Service permite administrar solicitudes de mantenimiento, registrar equipos, asignar técnicos y consultar el estado de las órdenes de servicio.
+
+La aplicación utiliza Firebase Authentication y Cloud Firestore para gestionar usuarios e información.
+
+## Instalación
+
+1. Descargar el archivo `PC-Gamer-Service.apk` desde este repositorio.
+2. Abrir el archivo en un dispositivo Android.
+3. Autorizar la instalación desde esa fuente si Android lo solicita.
+4. Abrir la aplicación.
+5. Iniciar sesión con alguna de las cuentas de prueba.
+
+**Requisito:** conexión a Internet para utilizar los servicios de Firebase.
+
+## Credenciales de prueba
+
+| Rol | Correo electrónico | Contraseña |
+|---|---|---|
+| Administrador | [adminpruebas@gmail.com] | [1234567] |
+| Técnico | [tecnicoprueba1@gmail.com] | [1234567] |
+| Cliente | [alvaro123@gmail.com] | [1234567] |
+
+**Nota:** Estas cuentas son exclusivamente para pruebas académicas. No utilizar cuentas personales ni información real.
+
+## Funcionalidades por rol
+
+### Administrador
+- Gestionar usuarios y técnicos.
+- Consultar todas las órdenes de mantenimiento.
+- Asignar técnicos a las órdenes.
+- Consultar estadísticas.
+
+### Técnico
+- Consultar órdenes asignadas.
+- Registrar diagnósticos.
+- Actualizar el estado de las órdenes.
+
+### Cliente
+- Registrar equipos de cómputo.
+- Consultar equipos registrados.
+- Solicitar mantenimiento.
+- Consultar el estado de sus órdenes.
+
+## Tecnologías utilizadas
+
+- Flutter y Dart.
+- Firebase Authentication.
+- Cloud Firestore.
+- Google Sign-In.
+
+## Propósito
+
+Aplicación desarrollada con fines académicos para demostrar el funcionamiento de un sistema de gestión de mantenimiento de equipos de cómputo mediante servicios en la nube.
