@@ -26,7 +26,12 @@ La aplicación utiliza Firebase Authentication y Cloud Firestore para gestionar 
 | Técnico | [tecnicoprueba1@gmail.com] | [1234567] |
 | Cliente (opcional) | [alvaro123@gmail.com] | [1234567] |
 
-**Nota:** Estas cuentas son exclusivamente para pruebas académicas. No utilizar cuentas personales ni información real.
+**Nota:**
+## Pruebas de la aplicación
+
+¿Encontraste un error o tienes una sugerencia?
+
+[Reportar error o sugerir una mejora](https://github.com/juanse-create/pc-gamer-service-apk/issues/new/choose)
 
 ## Funcionalidades por rol
 
