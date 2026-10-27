@@ -22,8 +22,8 @@ La aplicación utiliza Firebase Authentication y Cloud Firestore para gestionar 
 
 | Rol | Correo electrónico | Contraseña |
 |---|---|---|
-| Administrador | [adminpruebas@gmail.com] | [1234567] |
-| Técnico | [tecnicoprueba1@gmail.com] | [1234567] |
+| Administrador | [adminpruebas@gmail.com] | [-------] |
+| Técnico | [juahaldama703@gmail.com] | [Patito123] |
 | Cliente (opcional) | [alvaro123@gmail.com] | [1234567] |
 
 **Nota:**
